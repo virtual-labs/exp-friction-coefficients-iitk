@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1).Darcy’s frictional ___________ varies from 0.0005 to 0.01 for pipes: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Effect",
+        "b": "Coefficient",
+        "c": "Value",
+        "d": "Unit"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,33 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Headloss due to friction in pipe can be reduced by:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Decreasing diameter of pipenswer1",
+        "b": "Increasing diameter of pipe",
+        "c": "Increasing flow velocity",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Liquid flows through a horizontal pipe having diameter 100 mm (friction coefficient = 0.05) with a velocity of 4 m/s. what is the headloss due to friction?",
+      "answers": {
+        "a": "16 manswer1",
+        "b": "35 m",
+        "c": "40 m",
+        "d": "100 m"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +50,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Friction Factor _____________when the flow becomes fully turbulent",
+      "answers": {
+        "a": "Becomes zeroanswer1",
+        "b": "Attains maximum valuenswer2",
+        "c": "Attains minimum value",
+        "d": "Attains negative value"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Friction factor is function of ____________________ for rough pipes:",
+      "answers": {
+        "a": "Pipe relative roughness of pipeanswer1",
+        "b": "Fluid density",
+        "c": "Fluid volume",
+        "d": "Fluid temperature"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

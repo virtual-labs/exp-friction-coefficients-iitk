@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Relationship between Reynolds number (Re) and flow velocity (V) is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Re∝V",
+        "b": "Re∝1/V",
+        "c": "Re∝2V",
+        "d": "Re∝1/2V"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,63 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Blasius equation is the following:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "f= 0.316 ×〖Re〗^(-0.25)nswer1",
+        "b": "f= 0.316 ×〖Re〗^(-0.25)",
+        "c": "f= 0.316 ×〖Re〗^(-0.25)",
+        "d": "f= 0.316 ×〖Re〗^(-0.25)"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Blasius equation is valid only _________ flow of pressure head, velocity head and datum head.",
+      "answers": {
+        "a": "Laminar flownswer1",
+        "b": "Turbulent flow",
+        "c": "Transitional flow",
+        "d": "Hypersonic flow"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For a given pipe, friction factor depends on: ",
+      "answers": {
+        "a": "Temperatureanswer1",
+        "b": "Reynolds number",
+        "c": "Density",
+        "d": "Shear stressanswer4"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. If flow velocity is increased by 10%, then friction factor increases by:",
+      "answers": {
+        "a": "5%",
+        "b": "11%",
+        "c": "21%",
+        "d": "25%"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
