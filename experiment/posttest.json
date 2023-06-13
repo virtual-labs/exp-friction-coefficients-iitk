@@ -21,10 +21,10 @@
     {
       "question": "2. Blasius equation is the following:",
       "answers": {
-        "a": "f= 0.316 ×〖Re〗^(-0.25)nswer1",
-        "b": "f= 0.316 ×〖Re〗^(-0.25)",
-        "c": "f= 0.316 ×〖Re〗^(-0.25)",
-        "d": "f= 0.316 ×〖Re〗^(-0.25)"
+        "a": "f= 0.316 ×Re<sub>(-0.25)</sub>",
+        "b": "f= 0.316 ×Re<sub>(-0.25)</sub>",
+        "c": "f= 0.316 ×Re<sub>(-0.25)</sub>",
+        "d": "f= 0.316 ×Re<sub>(-0.25)</sub>"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -55,10 +55,10 @@
     {
       "question": "4. For a given pipe, friction factor depends on: ",
       "answers": {
-        "a": "Temperatureanswer1",
+        "a": "Temperature",
         "b": "Reynolds number",
         "c": "Density",
-        "d": "Shear stressanswer4"
+        "d": "Shear stress"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
