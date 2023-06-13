@@ -21,10 +21,10 @@
     {
       "question": "2. Blasius equation is the following:",
       "answers": {
-        "a": "f= 0.316 ×Re<sub>(-0.25)</sub>",
-        "b": "f= 0.316 ×Re<sub>(-0.25)</sub>",
-        "c": "f= 0.316 ×Re<sub>(-0.25)</sub>",
-        "d": "f= 0.316 ×Re<sub>(-0.25)</sub>"
+        "a": "f= 0.316 ×Re<sup>(-0.25)</sup>",
+        "b": "f= 0.316 ×Re<sup>(-0.25)</sup>",
+        "c": "f= 0.316 ×Re<sup>(-0.25)</sup>",
+        "d": "f= 0.316 ×Re<sup>(-0.25)</sup>"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
