@@ -8,8 +8,8 @@ By regulating the valve control the flow rate and select the corresponding press
 Note down the difference of head “h” from the manometer scale, and time required for the rise of 10 cm (i.e. 0.01m) water in the collecting tank by using stop watch.<br>
 The actual loss of head is determined from the Manometer readings. The frictional loss of head in pipes is given by the Darcy's formula. The friction coefficient indicates ' f '<br>
 Repeat the steps 4 to 8 for different sets of readings by regulating the discharge valve<br>
-<b>1. Formulae – </b>
-<image src="images/imagep1.png"><br>
-<image src="images/imagep2.png"><br>
+<b>1. Formulae – </b><br>
+<image src="images/i![Alt imagep1](imagep1.png)"><br>
+<image src="images/![Alt imagep2](imagep2.png)"><br>
 <b>2. Observations –</b><br>
-<image src="images/imagep3.png">
+<image src="images/![Alt imagep3](imagep3.png)">
