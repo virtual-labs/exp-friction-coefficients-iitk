@@ -9,7 +9,7 @@ Note down the difference of head “h” from the manometer scale, and time requ
 The actual loss of head is determined from the Manometer readings. The frictional loss of head in pipes is given by the Darcy's formula. The friction coefficient indicates ' f '<br>
 Repeat the steps 4 to 8 for different sets of readings by regulating the discharge valve<br>
 <b>1. Formulae – </b>
-<image src="[Alt text](imagep1-3.png)"><br>
-<image src="![Alt text](imagep2-2.png)"><br>
+<image src="images/![Alt text](imagep1-4.png)"><br>
+<image src="images/![Alt text](imagep2-3.png)"><br>
 <b>2. Observations –</b><br>
-<image src="![Alt text](imagep3-2.png)">
+<image src="images/![Alt text](imagep3-3.png)">
