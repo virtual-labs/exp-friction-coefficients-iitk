@@ -37,7 +37,7 @@ f = is known as the Darcy-Weisbach pipe<br>
 L = Length of the pipe between two tapings in m<br>
 V = mean velocity of the flow in m/s<br>
 D = is the internal diameter of the pipe in m<br>
-g = is the acceleration due to gravity in m/s2<br>
+g = is the acceleration due to gravity in m/s<sup>2</sup><br>
 
 The Reynold’s number, Re, can be estimated using the following equation:<br>
 Re=  ρVD/μ=  VD/υ<br>
@@ -48,11 +48,11 @@ D = is the internal diameter of the pipe in m<br>
 υ = Kinematic viscosity of liquid<br>
 Based on the nature of the flow, friction factor (f) can be estimated using the following correlations:<br>
 Laminar Flow:                              			     f=  64/Re<br>
-Turbulent flow (Blasius Equation):                              f= 0.316 ×〖Re〗<sup>-0.25</sup><br>
+Turbulent flow (Blasius Equation):                              f= 0.316 ×Re<sup>-0.25</sup><br>
 Blasius Equation is valid only for smooth pipe and 3000 < Re < 10<sup>5</sup>. The value of f for turbulent flow can be obtained from the Moody Chart. Moreover, for turbulent flow, the relationship between h<sub>f</sub> and V is:<br>
-h_f= K×V<sup>n</sup><br>
+h<sub>f</sub>= K×V<sup>n</sup><br>
 Where K is a loss coefficient and n ranges from 1.7 to 2.0 (depending on the value of Re and ks/D). This equation can be rewritten as: 
-log⁡〖h<sub>f</sub> 〗=  log⁡K+n log⁡V<br>
+log⁡ h<sub>f</sub> =  log⁡K+n log⁡V<br>
 
 <image src="images/image8.png"><br>
 
