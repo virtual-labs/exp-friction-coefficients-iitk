@@ -23,8 +23,36 @@ When a fluid flows through a pipe, there is a drop-in pressure in the fluid, sin
 Applying Bernoulli’s equation to a horizontally placed pipe of length L as shown in Fig. 4, hf represents the head loss due to the friction between the fluid and the internal surface of the constant diameter pipe as well as the friction between the adjacent fluid layer (Fig. 4)<br>
 <image src="images/image4.png"><br>
 Where h<sub>f</sub> represents the head loss due to the friction between the fluid and the internal wall surface of the constant diameter pipe as well as the friction between the adjacent fluid layer. <br>
-<image src="images/image5.png"><br>
-<image src="images/image6.png"><br>
-<image src="images/image7.png"><br>
+Since pipe is horizontally placed hence,   Z<sub>1</sub>=Z<sub>2</sub><br>
+Also since pipe has a constant diameter, therefore d<sub>1=d</sub>2 i.e. V<sub>1</sub>=V<sub>2</sub> according to continuity equation<br>
+Hence, <br>
+P<sub>1</sub>/ρ<sub>g</sub>=  P<sub>2</sub>/ρ<sub>g</sub>+ h<sub>f</sub><br>
+
+h<sub>f</sub>= h<sub>1</sub>- h<sub>2</sub><br>
+Furthermore, for a circular pipe with a fully developed flow, the head loss due to friction may be calculated from the formula known as Darcy-Weisbach pipe friction equation: f is known as the Darcy-Weisbach pipe friction factor<br>
+h<sub>f</sub>= f (LV<sup>2</sup>)/2gD<br>
+
+Where, <br>
+f = is known as the Darcy-Weisbach pipe<br>
+L = Length of the pipe between two tapings in m<br>
+V = mean velocity of the flow in m/s<br>
+D = is the internal diameter of the pipe in m<br>
+g = is the acceleration due to gravity in m/s2<br>
+
+The Reynold’s number, Re, can be estimated using the following equation:<br>
+Re=  ρVD/μ=  VD/υ<br>
+Where,<br>
+ρ = Density of liquid<br>
+V = Mean velocity of the flow in m/s<br>
+D = is the internal diameter of the pipe in m<br>
+υ = Kinematic viscosity of liquid<br>
+Based on the nature of the flow, friction factor (f) can be estimated using the following correlations:<br>
+Laminar Flow:                              			     f=  64/Re<br>
+Turbulent flow (Blasius Equation):                              f= 0.316 ×〖Re〗<sup>-0.25</sup><br>
+Blasius Equation is valid only for smooth pipe and 3000 < Re < 10<sup>5</sup>. The value of f for turbulent flow can be obtained from the Moody Chart. Moreover, for turbulent flow, the relationship between h<sub>f</sub> and V is:<br>
+h_f= K×V<sup>n</sup><br>
+Where K is a loss coefficient and n ranges from 1.7 to 2.0 (depending on the value of Re and ks/D). This equation can be rewritten as: 
+log⁡〖h<sub>f</sub> 〗=  log⁡K+n log⁡V<br>
+
 <image src="images/image8.png"><br>
 
