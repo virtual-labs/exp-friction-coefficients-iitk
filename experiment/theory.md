@@ -51,7 +51,7 @@ Laminar Flow:                              			     f=  64/Re<br>
 Turbulent flow (Blasius Equation):                              f= 0.316 ×Re<sup>-0.25</sup><br>
 Blasius Equation is valid only for smooth pipe and 3000 < Re < 10<sup>5</sup>. The value of f for turbulent flow can be obtained from the Moody Chart. Moreover, for turbulent flow, the relationship between h<sub>f</sub> and V is:<br>
 h<sub>f</sub>= K×V<sup>n</sup><br>
-Where K is a loss coefficient and n ranges from 1.7 to 2.0 (depending on the value of Re and ks/D). This 
+Where K is a loss coefficient and n ranges from 1.7 to 2.0 (depending on the value of Re and ks/D).  
 
 <image src="images/image8.png"><br>
 
