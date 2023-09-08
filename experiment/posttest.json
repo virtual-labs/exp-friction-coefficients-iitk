@@ -85,6 +85,91 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "6) Flow is Laminar for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 2000",
+        "b": "Re < 2000",
+        "c": "Re < 5000",
+        "d": "Re > 5000"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) The Flow is Turbulent for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 2000",
+        "b": "Re < 2000",
+        "c": "Re < 1000",
+        "d": "Re > 1000"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Major head loss in pipe flow is due to:",
+      "answers": {
+        "a": "Friction",
+        "b": "Cavitation",
+        "c": "Thermal gradient",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) What is the headloss with a pipe diameter of 1 m and length 1.5 km where flow velocity of water is 1 m/s? (Darcy’s friction factor = 0.02, acceleration due to gravity = 9.81m/s2)",
+      "answers": {
+        "a": "O.5 m",
+        "b": "1.0 m",
+        "c": "1.5 m",
+        "d": "15 m"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) Head loss due to friction in a pipe can be reduced by:",
+      "answers": {
+        "a": "Increasing the length of the pipe",
+        "b": "Bending pipe by 90O%",
+        "c": "Decreasing the length of the pipe",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }

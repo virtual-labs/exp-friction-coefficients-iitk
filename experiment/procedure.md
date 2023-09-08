@@ -1,4 +1,4 @@
-The following steps are to be followed to calculate the friction coefficient of pipes:<br>
+The following steps are to be followed to calculate the friction coefficient of pipes:<br><br>
 1. Check whether all the joints and the sump are not leaking <br>
 2. Close all the cocks, pressure feed pipes and manometer to prevent damage and overloading of the manometer. Check the gauge glass and meter scale assembly of the measuring tank and see that it is fixed water height and vertically. <br>
 3. Check proper electrical connections to the switch, which is internally connected to the motor. First open the inlet gate valve of the apparatus. Adjust the control valve kept at the exit end of the apparatus to a desired flow rate and maintain the flow steadily. <br>
