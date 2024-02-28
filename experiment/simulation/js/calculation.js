@@ -126,3 +126,30 @@ if(t7.querySelector("input").value >0.028611
         document.querySelector(".result-table").style.display = "flex"
     }
 }
+
+function exportToExcel() {
+    var wb = XLSX.utils.book_new();
+
+    /* Observation Table */
+    var observationTable = document.querySelector('.observationTable');
+    var observationSheetData = [];
+    var observationRows = observationTable.querySelectorAll('tr');
+    observationRows.forEach(function (row) {
+        var rowData = [];
+        row.querySelectorAll('th, td').forEach(function (cell) {
+            if (cell.querySelector('input')) {
+                rowData.push(cell.querySelector('input').value);
+            } else {
+                rowData.push(cell.textContent);
+            }
+        });
+        observationSheetData.push(rowData);
+    });
+    var observationSheet = XLSX.utils.aoa_to_sheet(observationSheetData);
+    XLSX.utils.book_append_sheet(wb, observationSheet, "Observation Table");
+
+    
+
+    /* Save workbook to file */
+    XLSX.writeFile(wb, "table_data.xlsx");
+}
