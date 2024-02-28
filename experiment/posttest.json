@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Relationship between Reynolds number (Re) and flow velocity (V) is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Re∝V",
+        "b": "Re∝1/V",
+        "c": "Re∝2V",
+        "d": "Re∝1/2V"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,148 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Blasius equation is the following:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "f= 0.316 ×Re<sup>(-0.25)</sup>",
+        "b": "f= 0.316 ×Re<sup>(-0.25)</sup>",
+        "c": "f= 0.316 ×Re<sup>(-0.25)</sup>",
+        "d": "f= 0.316 ×Re<sup>(-0.25)</sup>"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Blasius equation is valid only _________ flow of pressure head, velocity head and datum head.",
+      "answers": {
+        "a": "Laminar flownswer1",
+        "b": "Turbulent flow",
+        "c": "Transitional flow",
+        "d": "Hypersonic flow"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. For a given pipe, friction factor depends on: ",
+      "answers": {
+        "a": "Temperature",
+        "b": "Reynolds number",
+        "c": "Density",
+        "d": "Shear stress"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. If flow velocity is increased by 10%, then friction factor increases by:",
+      "answers": {
+        "a": "5%",
+        "b": "11%",
+        "c": "21%",
+        "d": "25%"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) Flow is Laminar for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 2000",
+        "b": "Re < 2000",
+        "c": "Re < 5000",
+        "d": "Re > 5000"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) The Flow is Turbulent for a given pipe flow if Reynold’s number is: ",
+      "answers": {
+        "a": "Re > 2000",
+        "b": "Re < 2000",
+        "c": "Re < 1000",
+        "d": "Re > 1000"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Major head loss in pipe flow is due to:",
+      "answers": {
+        "a": "Friction",
+        "b": "Cavitation",
+        "c": "Thermal gradient",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) What is the headloss with a pipe diameter of 1 m and length 1.5 km where flow velocity of water is 1 m/s? (Darcy’s friction factor = 0.02, acceleration due to gravity = 9.81m/s2)",
+      "answers": {
+        "a": "O.5 m",
+        "b": "1.0 m",
+        "c": "1.5 m",
+        "d": "15 m"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) Head loss due to friction in a pipe can be reduced by:",
+      "answers": {
+        "a": "Increasing the length of the pipe",
+        "b": "Bending pipe by 90O%",
+        "c": "Decreasing the length of the pipe",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
