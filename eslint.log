@@ -1,0 +1,19 @@
+
+/home/runner/work/exp-friction-coefficients-iitk/exp-friction-coefficients-iitk/experiment/simulation/js/calculation.js
+   18:10  warning  'calculate' is defined but never used        no-unused-vars
+   26:10  warning  'checkYourResult' is defined but never used  no-unused-vars
+  118:13  warning  'confetti' is not defined                    no-undef
+  130:10  warning  'exportToExcel' is defined but never used    no-unused-vars
+  131:14  warning  'XLSX' is not defined                        no-undef
+  148:28  warning  'XLSX' is not defined                        no-undef
+  149:5   warning  'XLSX' is not defined                        no-undef
+  154:5   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-friction-coefficients-iitk/exp-friction-coefficients-iitk/experiment/simulation/js/main.js
+    5:5   warning  'svg' is assigned a value but never used        no-unused-vars
+    9:5   warning  'powerFlag' is assigned a value but never used  no-unused-vars
+   49:10  warning  'power' is defined but never used               no-unused-vars
+  628:10  warning  'purzeAction' is defined but never used         no-unused-vars
+
+✖ 12 problems (0 errors, 12 warnings)
+
