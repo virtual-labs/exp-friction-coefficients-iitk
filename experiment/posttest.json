@@ -10,10 +10,10 @@
         "d": "Re∝1/2V"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:-  Re∝V. The Reynolds number is directly proportional to the flow velocity. It is calculated as Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity.",
+        "b": "The correct answer is:-  Re∝V. The Reynolds number is directly proportional to the flow velocity. It is calculated as Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity.",
+        "c": "The correct answer is:-  Re∝V. The Reynolds number is directly proportional to the flow velocity. It is calculated as Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity.",
+        "d": "The correct answer is:-  Re∝V. The Reynolds number is directly proportional to the flow velocity. It is calculated as Re=ρVD/μ, where ρ is the fluid density, V is the flow velocity, D is the characteristic length (e.g., pipe diameter), and μ is the dynamic viscosity."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "f= 0.316 ×Re<sup>(-0.25)</sup>"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:-  f= 0.316 ×Re<sup>(-0.25)</sup>.  The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes and shows that the friction factor decreases with increasing Reynolds number.",
+        "b": "The correct answer is:-  f= 0.316 ×Re<sup>(-0.25)</sup>.  The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes and shows that the friction factor decreases with increasing Reynolds number.",
+        "c": "The correct answer is:-  f= 0.316 ×Re<sup>(-0.25)</sup>.  The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes and shows that the friction factor decreases with increasing Reynolds number.",
+        "d": "The correct answer is:-  f= 0.316 ×Re<sup>(-0.25)</sup>.  The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes and shows that the friction factor decreases with increasing Reynolds number."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Hypersonic flow"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is turbulent flow. The Blasius equation is specifically applicable to turbulent flow in smooth pipes.",
+        "b": "The correct answer is turbulent flow. The Blasius equation is specifically applicable to turbulent flow in smooth pipes.",
+        "c": "The correct answer is turbulent flow. The Blasius equation is specifically applicable to turbulent flow in smooth pipes.",
+        "d": "The correct answer is turbulent flow. The Blasius equation is specifically applicable to turbulent flow in smooth pipes."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Shear stress"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Reynolds number. The friction factor in a pipe is influenced primarily by the Reynolds number, which describes the flow regime (laminar, transitional, or turbulent).",
+        "b": "The correct answer is Reynolds number. The friction factor in a pipe is influenced primarily by the Reynolds number, which describes the flow regime (laminar, transitional, or turbulent).",
+        "c": "The correct answer is Reynolds number. The friction factor in a pipe is influenced primarily by the Reynolds number, which describes the flow regime (laminar, transitional, or turbulent).",
+        "d": "The correct answer is Reynolds number. The friction factor in a pipe is influenced primarily by the Reynolds number, which describes the flow regime (laminar, transitional, or turbulent)."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "25%"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 21%. When flow velocity is increased, the Reynolds number increases, which impacts the friction factor in a non-linear manner, especially in turbulent flow. An increase in flow velocity by 10% results in approximately a 21% increase in friction factor due to the quadratic relationship between velocity and frictional losses.",
+        "b": "The correct answer is 21%. When flow velocity is increased, the Reynolds number increases, which impacts the friction factor in a non-linear manner, especially in turbulent flow. An increase in flow velocity by 10% results in approximately a 21% increase in friction factor due to the quadratic relationship between velocity and frictional losses.",
+        "c": "The correct answer is 21%. When flow velocity is increased, the Reynolds number increases, which impacts the friction factor in a non-linear manner, especially in turbulent flow. An increase in flow velocity by 10% results in approximately a 21% increase in friction factor due to the quadratic relationship between velocity and frictional losses.",
+        "d": "The correct answer is 21%. When flow velocity is increased, the Reynolds number increases, which impacts the friction factor in a non-linear manner, especially in turbulent flow. An increase in flow velocity by 10% results in approximately a 21% increase in friction factor due to the quadratic relationship between velocity and frictional losses."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "Re > 5000"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Re < 2000. Flow is considered laminar when the Reynolds number is less than 2000. In laminar flow, fluid particles move in parallel layers with minimal mixing.",
+        "b": "The correct answer is Re < 2000. Flow is considered laminar when the Reynolds number is less than 2000. In laminar flow, fluid particles move in parallel layers with minimal mixing.",
+        "c": "The correct answer is Re < 2000. Flow is considered laminar when the Reynolds number is less than 2000. In laminar flow, fluid particles move in parallel layers with minimal mixing.",
+        "d": "The correct answer is Re < 2000. Flow is considered laminar when the Reynolds number is less than 2000. In laminar flow, fluid particles move in parallel layers with minimal mixing."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "Re > 1000"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is Re > 2000. Flow is considered turbulent when the Reynolds number exceeds 2000, with fluid particles moving in a chaotic manner, causing increased friction and energy losses.",
+        "b": "The correct answer is Re > 2000. Flow is considered turbulent when the Reynolds number exceeds 2000, with fluid particles moving in a chaotic manner, causing increased friction and energy losses.",
+        "c": "The correct answer is Re > 2000. Flow is considered turbulent when the Reynolds number exceeds 2000, with fluid particles moving in a chaotic manner, causing increased friction and energy losses.",
+        "d": "The correct answer is Re > 2000. Flow is considered turbulent when the Reynolds number exceeds 2000, with fluid particles moving in a chaotic manner, causing increased friction and energy losses."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -129,16 +129,16 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is friction. Major head loss in pipe flow primarily results from friction between the fluid and the pipe walls, which converts mechanical energy into heat.",
+        "b": "The correct answer is friction. Major head loss in pipe flow primarily results from friction between the fluid and the pipe walls, which converts mechanical energy into heat.",
+        "c": "The correct answer is friction. Major head loss in pipe flow primarily results from friction between the fluid and the pipe walls, which converts mechanical energy into heat.",
+        "d": "The correct answer is friction. Major head loss in pipe flow primarily results from friction between the fluid and the pipe walls, which converts mechanical energy into heat."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "9) What is the headloss with a pipe diameter of 1 m and length 1.5 km where flow velocity of water is 1 m/s? (Darcy’s friction factor = 0.02, acceleration due to gravity = 9.81m/s2)",
+      "question": "9) What is the headloss with a pipe diameter of 1 m and length 1.5 km where flow velocity of water is 1 m/s? (Darcy’s friction factor = 0.02, acceleration due to gravity = 9.81m/s<sup>2</sup>)",
       "answers": {
         "a": "O.5 m",
         "b": "1.0 m",
@@ -146,10 +146,10 @@
         "d": "15 m"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is:- 1.5 m. The head loss due to friction is calculated using the Darcy-Weisbeck equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2<sub>g</sub> <br>Given: f=0.02 , L=1500L m, D=1 m, v=1 m/s, g=9.81 m/s². Gives h<sub>f</sub>≈1.53 m",
+        "b": "The correct answer is:- 1.5 m. The head loss due to friction is calculated using the Darcy-Weisbeck equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2<sub>g</sub> <br>Given: f=0.02 , L=1500L m, D=1 m, v=1 m/s, g=9.81 m/s². Gives h<sub>f</sub>≈1.53 m",
+        "c": "The correct answer is:- 1.5 m. The head loss due to friction is calculated using the Darcy-Weisbeck equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2<sub>g</sub> <br>Given: f=0.02 , L=1500L m, D=1 m, v=1 m/s, g=9.81 m/s². Gives h<sub>f</sub>≈1.53 m",
+        "d": "The correct answer is:- 1.5 m. The head loss due to friction is calculated using the Darcy-Weisbeck equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2<sub>g</sub> <br>Given: f=0.02 , L=1500L m, D=1 m, v=1 m/s, g=9.81 m/s². Gives h<sub>f</sub>≈1.53 m"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is decreasing the length of the pipe. Head loss due to friction is directly proportional to the length of the pipe, so reducing the length will decrease the frictional losses.",
+        "b": "The correct answer is decreasing the length of the pipe. Head loss due to friction is directly proportional to the length of the pipe, so reducing the length will decrease the frictional losses.",
+        "c": "The correct answer is decreasing the length of the pipe. Head loss due to friction is directly proportional to the length of the pipe, so reducing the length will decrease the frictional losses.",
+        "d": "The correct answer is decreasing the length of the pipe. Head loss due to friction is directly proportional to the length of the pipe, so reducing the length will decrease the frictional losses."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
