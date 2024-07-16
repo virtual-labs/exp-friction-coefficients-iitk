@@ -1,5 +1,4 @@
 <b>Youtube Link</b><br>
-See video for reference
 #### <a href="https://youtu.be/xFP17jTTYpQ?si=XUsSp_EbluFWKsAl">  (a) Friction losses for flow through pipes</a><br>
 
 <b>Books Link</b></br>
