@@ -3,7 +3,7 @@
 Generally, in all hydraulic systems it is observed that there are some energy losses with respect to friction and geometrical changes. The frictional loss in pipes is mainly because of the viscosity of fluid near the inner wall surface of the pipe. There are other energy losses also which are attributed to the pressure changes in a hydraulic system because of the pipe fittings like bends, obstructions, expansion and contraction. All the energy loss happening in a pipe flow changes to heat energy. In other words, the more the energy losses more energy is required to pump the liquid or gas through the pipes.<br><br>
 <b><font style="6">Components of Experimental setup</font></b><br>
 <image src="images/image2.png"><br>
-Fig. 3 shows a schematic of test rig or bench for determination of frictional losses in a pipe, who’s each part is explained as follow: <br>
+Fig. 2 shows a schematic of test rig or bench for determination of frictional losses in a pipe, who’s each part is explained as follow: <br>
                     					
 1. <b>Flow Meter</b><br>
 The test bench consists of flow meter for the experiments. The meter shows the amount of water flowing through the pipe<br><br>
