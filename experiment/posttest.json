@@ -160,7 +160,7 @@
         "a": "Increasing the length of the pipe",
         "b": "Bending pipe by 90O%",
         "c": "Decreasing the length of the pipe",
-        "d": "None of these"
+        "d": "Increasing the length of the pipe"
       },
       "explanations": {
         "a": "The correct answer is decreasing the length of the pipe. Head loss due to friction is directly proportional to the length of the pipe, so reducing the length will decrease the frictional losses.",
