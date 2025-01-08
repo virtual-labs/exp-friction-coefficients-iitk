@@ -126,7 +126,7 @@
         "a": "Friction",
         "b": "Cavitation",
         "c": "Thermal gradient",
-        "d": "None of these"
+        "d": "Sudden expansion or closure"
       },
       "explanations": {
         "a": "The correct answer is friction. Major head loss in pipe flow primarily results from friction between the fluid and the pipe walls, which converts mechanical energy into heat.",
