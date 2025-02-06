@@ -30,7 +30,7 @@ P<sub>1</sub>/ρ<sub>g</sub>=  P<sub>2</sub>/ρ<sub>g</sub>+ h<sub>f</sub><br>
 
 h<sub>f</sub>= h<sub>1</sub>- h<sub>2</sub><br>
 Furthermore, for a circular pipe with a fully developed flow, the head loss due to friction may be calculated from the formula known as Darcy-Weisbach pipe friction equation: f is known as the Darcy-Weisbach pipe friction factor<br>
-h<sub>f</sub>= f (LV<sup>2</sup>)/2gD<br>
+h<sub>f</sub>= f (4LV<sup>2</sup>)/2gD<br>
 
 Where, <br>
 f = is known as the Darcy-Weisbach pipe<br>
