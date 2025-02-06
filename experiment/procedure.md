@@ -30,4 +30,4 @@ s<sub>m</sub>  = Specific gravity of mercury =13.6<br>
 s<sub>w</sub> = specific gravity of water = 1<br>
 g = Acceleration due to gravity (9.81 m<sup>2</sup>⁄s)<br><br>
 <b> Observations –</b><br>
-<l><image src="images/imagep3.png"></l>
+<l><image src="images/imageot1.png"></l>
