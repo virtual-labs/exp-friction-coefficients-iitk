@@ -26,8 +26,8 @@ h<sub>f</sub>= f (4LV<sup>2</sup>)/2gD<br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)<br>
 or H  =(h<sub>1</sub>-h<sub>2</sub> )×12.6 or (h)×12.6<br>
-s<sub>m</sub>  = Specific gravity of mercury =13600<br> 
-s<sub>w</sub> = specific gravity of water = 1000<br>
+s<sub>m</sub>  = Specific gravity of mercury =13.6<br> 
+s<sub>w</sub> = specific gravity of water = 1<br>
 g = Acceleration due to gravity (9.81 m<sup>2</sup>⁄s)<br><br>
 <b> Observations –</b><br>
 <l><image src="images/imagep3.png"></l>
