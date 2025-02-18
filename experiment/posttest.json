@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Blasius equation is the following:",
+      "question": "2. The Blasius equation for friction factor f in turbulent flow through pipes relates f to the Reynolds number Re as f = ______",
       "answers": {
-        "a": "f= 0.316 ×Re<sup>(-0.25)</sup>",
-        "b": "f= 0.316 ×Re<sup>(-0.25)</sup>",
-        "c": "f= 0.316 ×Re<sup>(-0.25)</sup>",
-        "d": "f= 0.316 ×Re<sup>(-0.25)</sup>"
+        "a": "f= 64/Re",
+        "b": "f= 0.316 ×Re<sup>(0.25)</sup>",
+        "c": "f= 1.328 ×Re<sup>(1/2)</sup>",
+        "d": "f= 0.316 ×Re<sup>(2.5)</sup>"
       },
       "explanations": {
         "a": "The correct answer is:-  f= 0.316 ×Re<sup>(-0.25)</sup>.  The Blasius equation is an empirical formula used to estimate the Darcy friction factor for turbulent flow in smooth pipes and shows that the friction factor decreases with increasing Reynolds number.",

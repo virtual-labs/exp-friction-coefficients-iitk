@@ -36,9 +36,9 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Liquid flows through a horizontal pipe having diameter 100 mm (friction coefficient = 0.05) with a velocity of 4 m/s. what is the headloss due to friction?",
+      "question": "3. Liquid flows through a horizontal pipe having diameter 100 mm (friction coefficient = 0.05) with a velocity of 4 m/s. what is the headloss due to friction? If the length of the pipe is 1 m.",
       "answers": {
-        "a": "16 m",
+        "a": "1.63 m",
         "b": "35 m",
         "c": "40 m",
         "d": "100 m"
@@ -106,7 +106,7 @@
     {
       "question": "7) For Laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
       "answers": {
-        "a": "f=Re⁄64",
+        "a": "f=64/Re",
         "b": "f=Re",
         "c": "f=64Re",
         "d": "f=16Re"
