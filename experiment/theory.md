@@ -54,4 +54,3 @@ h<sub>f</sub>= K×V<sup>n</sup><br><br>
 Where K is a loss coefficient and n ranges from 1.7 to 2.0 (depending on the value of Re and ks/D).  <br>
 
 <image src="images/image8.png"><br>
-
