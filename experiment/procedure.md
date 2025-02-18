@@ -11,17 +11,19 @@ The following steps are to be followed to calculate the friction coefficient of 
 
 <b> Formulae – </b><br>
 1. Calculate Actual Discharge (Q<sub>act</sub>)<br>
-Note down the time required for the rice of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
+Note down the time required for the rise of 10 cm (i.e 0.1 m) water in the collecting tank by using stop watch. Calculate discharge using below formulae:<br>
 Discharge: The time taken collect some ‘R’ cm of water in the collecting tank<br>
 Q<sub>act</sub>=((A×R)/t)  
 A = area of the collecting tank in m<sup>² </sup><br>
 R = rise of water level taken in meters (say 0.1 m or 10 cm) <br>
-t = time taken for rise of water level to height ‘R’ in seconds<br>
+t = time taken for rise of water level to height ‘R’ in seconds<br><br>
+
 2. Calculate the velocity of the jet by following formula: <br>
 V=  Discharge/(area of Pipe)=  Q<sub>act</sub>/A<br>
 D = pipe diameter <br>
-A = Cross sectional area of the pipe =  (πD<sup>2</sup>)/4<br>
-3. Calculate the coefficient of friction for the given pipe by<br>
+A = Cross sectional area of the pipe =  (πD<sup>2</sup>)/4<br><br>
+
+3. The head calculated from Darcy's formula should be equal to manometer head. Then, we can calculate the friction factor for the given pipe by<br>
 h<sub>f</sub>= f (4LV<sup>2</sup>)/2gD<br>
 Where, <br>
 H= difference of head in meters  =(h<sub>1</sub>-h<sub>2</sub> )×((s<sub>m</sub>)/s<sub>w</sub> -1)<br>
