@@ -1,5 +1,6 @@
 //Your JavaScript goes in here
 var enableButton=document.getElementById("enable");
+var highlightArrow = document.getElementById("highlight-arrow");
 var purzeButton=document.getElementById("purze")
 var pipeSelection = document.querySelector("#pipeSelect")
 var svg=document.getElementById("Layer_1");
@@ -42,6 +43,7 @@ var arrowRect = document.getElementById("arrow-rect")
 var arrowPol = document.getElementById("arrow-pol")
 var timerSec = document.getElementById("timer-sec")
 var timerMS = document.getElementById("timer-ms")
+var currentHighlightedElement = enableButton
 
 window.appData = window.appData || {};
 window.appData.powerFlag = false;
@@ -52,7 +54,7 @@ function power(){
         document.getElementById("steps").innerHTML="Please wait until the water reaches the Flow Rate Valve."
         enableButton.textContent = "POWER OFF"
         count=1
-
+        highlightArrow.style.display = "none"
         waterFlow3()
     }else{
         if(!window.appData.powerFlag){
@@ -167,6 +169,7 @@ function waterFlow6(){
 
     setTimeout(function() {
         document.getElementById("steps").innerHTML = "Choose the pipe number."
+        highlightArrowFn(pipeSelection)
         pipeSelection.disabled = false
       }, 1500);
     
@@ -446,6 +449,7 @@ function waterFlow14(){
             }
 
             document.getElementById("steps").innerHTML = "Take note of the manometer reading, and then close the gate valve using the close gate valve button."
+            highlightArrowFn(purzeButton)
             purzeButton.disabled = false;
         }, 1000);
     }
@@ -468,9 +472,11 @@ function fillTankFront(){
 
     setTimeout(function() {
         document.getElementById("steps").innerHTML = "Take note of the current time on the timer, and select another pipe number for further readings."
+        highlightArrowFn(pipeSelection)
         pipeSelection.disabled=false
         if(pipeSelection.value==2){
             document.getElementById("steps").innerHTML = "Take note of the current time on the timer."
+            highlightArrow.style.display = "none"
         }
       }, 2500);
 
@@ -580,6 +586,7 @@ function updatePipeNumber()  {
         tube_r2.setAttribute("opacity","0")
         waterFlow7()
         pipeSelection.disabled=true
+        highlightArrow.style.display = "none"
 
     }if(selectedValue == 2){
         tube_l1.setAttribute("opacity","0")
@@ -589,6 +596,7 @@ function updatePipeNumber()  {
         waterFLOW7()
 
         pipeSelection.disabled=true
+        highlightArrow.style.display = "none"
 
     }if(selectedValue == 0){
         tube_l1.setAttribute("opacity","0")
@@ -645,6 +653,7 @@ function purzeAction(){
     arrowMovement()
     arrowMovement2(573.3,579.3,585.3 )
 
+    highlightArrow.style.display = "none"
     purzeButton.disabled= true
 }
 
@@ -668,3 +677,23 @@ function arrowMovement2(y1,y2,y3){
         setTimeout(() => arrowMovement2(y1,y2,y3), 21.5);
     }
 }
+
+function highlightArrowFn(element) {
+    if (element) {
+      let rect = element.getBoundingClientRect();
+      highlightArrow.style.left = `${
+        rect.left + window.scrollX + rect.width / 2 - 25
+      }px`;
+      highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
+      highlightArrow.style.display = "block";
+      currentHighlightedElement = element;
+    }
+  }
+  
+  document.addEventListener("DOMContentLoaded", () =>
+    highlightArrowFn(enableButton)
+  );
+
+  window.addEventListener('resize', function() {
+    highlightArrowFn(currentHighlightedElement);
+  });
