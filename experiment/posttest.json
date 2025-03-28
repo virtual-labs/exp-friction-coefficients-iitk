@@ -38,7 +38,7 @@
     {
       "question": "3. Blasius equation is valid only _________ flow of pressure head, velocity head and datum head.",
       "answers": {
-        "a": "Laminar flownswer1",
+        "a": "Laminar flow",
         "b": "Turbulent flow",
         "c": "Transitional flow",
         "d": "Hypersonic flow"
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Flow is Laminar for a given pipe flow if Reynold’s number is: ",
+      "question": "6) Flow is Laminar for a given pipe flow if Reynolds number is: ",
       "answers": {
         "a": "Re > 2000",
         "b": "Re < 2000",
@@ -140,7 +140,7 @@
     {
       "question": "9) What is the headloss with a pipe diameter of 1 m and length 1.5 km where flow velocity of water is 1 m/s? (Darcy’s friction factor = 0.02, acceleration due to gravity = 9.81m/s<sup>2</sup>)",
       "answers": {
-        "a": "O.5 m",
+        "a": "0.5 m",
         "b": "1.0 m",
         "c": "1.5 m",
         "d": "15 m"
@@ -158,7 +158,7 @@
       "question": "10) Head loss due to friction in a pipe can be reduced by:",
       "answers": {
         "a": "Increasing the length of the pipe",
-        "b": "Bending pipe by 90O%",
+        "b": "Bending pipe by 90°%",
         "c": "Decreasing the length of the pipe",
         "d": "Increasing the length of the pipe"
       },
