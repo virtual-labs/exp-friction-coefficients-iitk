@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1).Darcy’s frictional ___________ varies from 0.0005 to 0.01 for pipes: ",
+      "question": "1).Darcy’s friction ___________ varies from 0.0005 to 0.01 for pipes: ",
       "answers": {
         "a": "Effect",
         "b": "Coefficient",
