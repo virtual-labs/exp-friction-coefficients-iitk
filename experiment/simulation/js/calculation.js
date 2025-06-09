@@ -12,6 +12,10 @@ var t11=document.getElementById("t11");
 var t12=document.getElementById("t12");
 var t13=document.getElementById("t13");
 var t14=document.getElementById("t14");
+var t15=document.getElementById("t15");
+var t16=document.getElementById("t16");
+var t17=document.getElementById("t17");
+var t18=document.getElementById("t18");
 
 // import { powerFlag } from './main'
 
@@ -21,17 +25,13 @@ function calculate(){
     }else{
         document.querySelector("#check-button").disabled = false
         t7.querySelector("input").value=((2*9.81*0.022*(t3.querySelector("input").value))/(t6.querySelector("input").value)**2).toFixed(4);
-        t14.querySelector("input").value=((2*9.81*0.016*(t10.querySelector("input").value))/(t13.querySelector("input").value)**2).toFixed(4);
+        t14.querySelector("input").value=((2*9.81*0.016*(t10.querySelector("input").value))/(t13.querySelector("input").value)**2).toFixed(3);
     }}
 function checkYourResult(){
     let flag=true;
-    if(t2.querySelector("input").value >0.0003562
-    && t2.querySelector("input").value<0.0004038  ){
-        t2.querySelector("input").style.color = "black"
-        flag= true
-    }else{
+    if(t2.querySelector("input").value != 0.000380182){
         t2.querySelector("input").style.color = "red"
-        flag= false
+        flag=false;
     }
     if(t3.querySelector("input").value!=0.068){
         t3.querySelector("input").style.color="red"
@@ -41,39 +41,34 @@ function checkYourResult(){
         t4.querySelector("input").style.color="red"
         flag=false
     }      
-    if(t5.querySelector("input").value >3.7917
-    && t5.querySelector("input").value<3.8683  ){
-        t5.querySelector("input").style.color = "black"
-        flag= true
-    }else{
+    if(t5.querySelector("input").value!=0.0000383085){
         t5.querySelector("input").style.color = "red"
-        flag= false
-    }    
-    if(t6.querySelector("input").value >0.9979
-    && t6.querySelector("input").value<1.01808 ){
-        t6.querySelector("input").style.color = "black"
-        flag= true
-    }else{
+        flag=false
+    }  
+    if(t6.querySelector("input").value!=1.008){
         t6.querySelector("input").style.color = "red"
-        flag= false
+        flag=false
     }
-if(t7.querySelector("input").value >0.028611
-&& t7.querySelector("input").value<0.029189 ){
-    t7.querySelector("input").style.color = "black"
-    flag= true
-}else{
+if(t7.querySelector("input").value != 0.0289){
     t7.querySelector("input").style.color = "red"
     flag= false
-}    
-    if(t9.querySelector("input").value >0.000198
-    && t9.querySelector("input").value<0.000202 ){
-        t9.querySelector("input").style.color = "black"
-        flag= true
-    }else{
+}
+
+if(t15.querySelector("input").value != 14686){
+    t15.querySelector("input").style.color = "red"
+    flag= false
+}
+
+if(t16.querySelector("input").value != 'Turbulent'){
+    t16.querySelector("input").style.color = "red"
+    flag= false
+}
+
+    if(t9.querySelector("input").value != 0.000201088){
         t9.querySelector("input").style.color = "red"
         flag= false
-    }        
-    if(t10.querySelector("input").value!=0.0303){
+    }     
+    if(t10.querySelector("input").value!=0.303){
         t10.querySelector("input").style.color="red"
         flag=false
     }        
@@ -81,36 +76,34 @@ if(t7.querySelector("input").value >0.028611
         t11.querySelector("input").style.color="red"
         flag=false
     }
-    if(t12.querySelector("input").value >3.0987
-    && t12.querySelector("input").value<3.1613 ){
-        t12.querySelector("input").style.color = "black"
-        flag= true
-    }else{
-        t12.querySelector("input").style.color = "red"
+    if(t12.querySelector("input").value != 0.0000313008){
+       t12.querySelector("input").style.color = "red"
         flag= false
     }
 
-    if(t13.querySelector("input").value >1.54143
-    && t13.querySelector("input").value<1.57257 ){
-        t13.querySelector("input").style.color = "black"
-        flag= true
-    }else{
+    if(t13.querySelector("input").value != 1.557){
         t13.querySelector("input").style.color = "red"
         flag= false
-    }      
+    }    
     
 
-    if(t14.querySelector("input").value >0.00389
-    && t14.querySelector("input").value<0.00404 ){
-        t14.querySelector("input").style.color = "black"
-        flag= true
-    }else{
+    if(t14.querySelector("input").value != 0.039){
         t14.querySelector("input").style.color = "red"
         flag= false
-    }     
+    }  
     
+    if(t17.querySelector("input").value != 16496){
+    t17.querySelector("input").style.color = "red"
+    flag= false
+}
+
+if(t18.querySelector("input").value != 'Turbulent'){
+    t18.querySelector("input").style.color = "red"
+    flag= false
+}
 
 
+console.log(flag, 'flag')
     if(flag){
     
         for (let i = 0; i < 5; i++) {
