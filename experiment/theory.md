@@ -40,12 +40,12 @@ D = is the internal diameter of the pipe in m<br>
 g = is the acceleration due to gravity in m/s<sup>2</sup><br> <br>
 
 The Reynold’s number, Re, can be estimated using the following equation:<br> <br>
-Re=  ρVD/μ=  VD/υ<br> <br>
+Re=  ρVD/μ = Vd/v<br> <br>
 Where,<br>
 ρ = Density of liquid kg/m<sup>3</sup> <br>
 V = Mean velocity of the flow in m/s<br>
-D = is the internal diameter of the pipe in m<br>
-υ = Kinematic viscosity of liquid in m<sup>2</sup>/s <br><br>
+d = is the internal diameter of the pipe in m<br>
+v = Kinematic viscosity of liquid in m<sup>2</sup>/s <br><br>
 Based on the nature of the flow, friction factor (f) can be estimated using the following correlations:<br><br>
 Laminar Flow:                              			     f=  64/Re<br>
 Turbulent flow (Blasius Equation):                              f= 0.316 ×Re<sup>-0.25</sup><br><br>
