@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Liquid flows through a horizontal pipe having diameter 100 mm (friction coefficient = 0.05) with a velocity of 4 m/s. what is the headloss due to friction? If the length of the pipe is 1 m.",
+      "question": "3. Liquid flows through a horizontal pipe having diameter 100 mm (friction factor = 0.05) with a velocity of 4.0 m/s. The pipe length is 100 m. What is the head loss due to friction?",
       "answers": {
         "a": "1.63 m",
         "b": "35 m",
@@ -44,10 +44,10 @@
         "d": "100 m"
       },
       "explanations": {
-        "a": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f=0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1m , v = 4 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
-        "b": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f=0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1m , v = 4 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
-        "c": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f=0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1m , v = 4 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
-        "d": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f=0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1m , v = 4 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length."
+        "a": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
+        "b": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
+        "c": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
+        "d": "The correct answer is 40 m. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -106,16 +106,16 @@
     {
       "question": "7) For Laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
       "answers": {
-        "a": "f=64/Re",
+        "a": "(f=64)⁄Re",
         "b": "f=Re",
         "c": "f=64Re",
         "d": "f=16Re"
       },
       "explanations": {
-        "a": "The correct answer is f=Re⁄64. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64.",
-        "b": "The correct answer is f=Re⁄64. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64.",
-        "c": "The correct answer is f=Re⁄64. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64.",
-        "d": "The correct answer is f=Re⁄64. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64."
+        "a": "The correct answer is (f=64)⁄Re. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64.",
+        "b": "The correct answer is (f=64)⁄Re. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64.",
+        "c": "The correct answer is (f=64)⁄Re. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64.",
+        "d": "The correct answer is (f=64)⁄Re. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f=Re⁄64."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
