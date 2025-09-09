@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. The Blasius equation for friction factor f in turbulent flow through pipes relates f to the Reynolds number Re as f = ______",
+      "question": "2. The Blasius equation for friction factor f in turbulent flow through pipes relates f to the Reynolds number Re as f = ______(valid for turbulent flow in smooth pipes with 4000<Re<10^5)",
       "answers": {
         "a": "f= 64/Re",
         "b": "f= 0.316 ×Re<sup>(0.25)</sup>",
