@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Blasius equation is the following (valid for turbulent flow in smooth pipes with 4000 (<Re <10 )<sup>5</sup>):",
+      "question": "2. Blasius equation is the following (valid for turbulent flow in smooth pipes with 4000 <<Re <<10<sup>5</sup>):",
       "answers": {
         "a": "f = 0.316 × Re<sup>(-0.25)</sup>",
         "b": "f = 0.316 × Re<sup>(0.25)</sup>",
