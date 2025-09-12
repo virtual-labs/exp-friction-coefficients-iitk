@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. Friction Factor _____________ when the flow becomes fully turbulent",
+      "question": "4. Friction Factor ____________  when the flow becomes fully turbulent",
       "answers": {
         "a": "becomes zero",
         "b": "attains maximum value",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. Friction factor is function of ____________________ for rough pipes:",
+      "question": "5. Friction factor is function of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> for rough pipes:",
       "answers": {
         "a": "pipe relative roughness ",
         "b": "fluid density",
@@ -112,10 +112,10 @@
         "d": "f = 16Re"
       },
       "explanations": {
-        "a": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "b": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "c": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "d": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64."
+        "a": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
+        "b": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
+        "c": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
+        "d": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
