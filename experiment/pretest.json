@@ -112,10 +112,10 @@
         "d": "f = 16Re"
       },
       "explanations": {
-        "a": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "b": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "c": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "d": "The correct answer is “f=64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64."
+        "a": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
+        "b": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
+        "c": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
+        "d": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
