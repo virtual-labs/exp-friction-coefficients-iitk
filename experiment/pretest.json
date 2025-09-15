@@ -44,10 +44,10 @@
         "d": "100 m"
       },
       "explanations": {
-        "a": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
-        "b": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
-        "c": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
-        "d": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s²."
+        "a": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "b": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "c": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "d": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s²."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
