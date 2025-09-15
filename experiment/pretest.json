@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Darcy’s friction ___________ varies from 0.0005 to 0.01 for pipes:",
+      "question": "1. Darcy’s friction <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> varies from 0.0005 to 0.01 for pipes.",
       "answers": {
-        "a": "Effect",
-        "b": "Coefficient",
-        "c": "Value",
-        "d": "Unit"
+        "a": "effect",
+        "b": "coefficient",
+        "c": "value",
+        "d": "unit"
       },
       "explanations": {
         "a": "The correct answer is “coefficient”. The Darcy friction factor (or coefficient) is a dimensionless number used in the Darcy-Weisbach equation to describe friction losses in a pipe. It varies based on the Reynolds number and the relative roughness of the pipe.",
@@ -44,16 +44,16 @@
         "d": "100 m"
       },
       "explanations": {
-        "a": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
-        "b": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
-        "c": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length.",
-        "d": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub>=f L/D  v<sup>2</sup>/2g<br>Given: f = 0.05, L is not provided but let's assume it is 1 m for simplicity, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s². Simplifying the calculation would yield approximately 40 m if we assume a certain length."
+        "a": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "b": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "c": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "d": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f L/2D  v<sup>2</sup>/g<br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s²."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "4. Friction Factor ____________  when the flow becomes fully turbulent",
+      "question": "4. Friction factor <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> when the flow becomes fully turbulent",
       "answers": {
         "a": "becomes zero",
         "b": "attains maximum value",
@@ -70,24 +70,24 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. Friction factor is function of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> for rough pipes:",
+      "question": "5. Friction factor is function of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> for rough pipes.",
       "answers": {
-        "a": "pipe relative roughness ",
-        "b": "fluid density",
-        "c": "fluid volume",
-        "d": "fluid temperature"
+        "a": "relative roughness of pipe",
+        "b": "density of fluid",
+        "c": "volume of fluid ",
+        "d": "temperature of fluid "
       },
       "explanations": {
-        "a": "The correct answer is “pipe relative roughness”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
-        "b": "The correct answer is “pipe relative roughness”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
-        "c": "The correct answer is “pipe relative roughness”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
-        "d": "The correct answer is “pipe relative roughness”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe."
+        "a": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
+        "b": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
+        "c": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
+        "d": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "6. If flow velocity is doubled, then frictional headloss becomes:",
+      "question": "6. If flow velocity is doubled, then the frictional head loss becomes:",
       "answers": {
         "a": "Four times",
         "b": "Half",
@@ -104,18 +104,18 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7. For Laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
+      "question": "7. For laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
       "answers": {
-        "a": "f = 64⁄Re",
+        "a": "f = 64 ⁄ Re",
         "b": "f = Re",
         "c": "f = 64Re",
         "d": "f = 16Re"
       },
       "explanations": {
-        "a": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "b": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "c": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64.",
-        "d": "The correct answer is “f = 64⁄Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re⁄64."
+        "a": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64.",
+        "b": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64.",
+        "c": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64.",
+        "d": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9. Moody’s diagram is used to calculate _______________ in pipes:",
+      "question": "9. Moody’s diagram is used to calculate <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in pipes.",
       "answers": {
         "a": "velocity",
         "b": "pressure",
