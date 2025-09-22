@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Darcy’s friction <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> varies from 0.0005 to 0.01 for pipes.",
+      "question": "“1.” Darcy’s friction <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> varies from 0.0005 to 0.01 for pipes.",
       "answers": {
         "a": "effect",
         "b": "coefficient",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. Headloss due to friction in pipe can be reduced by:",
+      "question": "“2.” Headloss due to friction in pipe can be reduced by:",
       "answers": {
         "a": "Decreasing diameter of pipe",
         "b": "Increasing diameter of pipe",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Liquid flows through a horizontal pipe having diameter 100 mm (friction factor = 0.05) with a velocity of 4.0 m/s. The pipe length is 100 m. What is the head loss due to friction?",
+      "question": "“3.” Liquid flows through a horizontal pipe having diameter 100 mm (friction factor = 0.05) with a velocity of 4.0 m/s. The pipe length is 100 m. What is the head loss due to friction?",
       "answers": {
         "a": "16 m",
         "b": "35 m",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. Friction factor <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> when the flow becomes fully turbulent",
+      "question": "“4.” Friction factor <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> when the flow becomes fully turbulent",
       "answers": {
         "a": "becomes zero",
         "b": "attains maximum value",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. Friction factor is function of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> for rough pipes.",
+      "question": "“5.” Friction factor is function of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> for rough pipes.",
       "answers": {
         "a": "relative roughness of pipe",
         "b": "density of fluid",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6. If flow velocity is doubled, then the frictional head loss becomes:",
+      "question": "“6.” If flow velocity is doubled, then the frictional head loss becomes:",
       "answers": {
         "a": "Four times",
         "b": "Half",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7. For laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
+      "question": "“7.” For laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
       "answers": {
         "a": "f = 64 ⁄ Re",
         "b": "f = Re",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8. Darcy friction factor for Laminar flow is based on:",
+      "question": "“8.” Darcy friction factor for Laminar flow is based on:",
       "answers": {
         "a": "Bernoulli’s Law",
         "b": "Poiseuille’s Law",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9. Moody’s diagram is used to calculate <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in pipes.",
+      "question": "“9.” Moody’s diagram is used to calculate <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in pipes.",
       "answers": {
         "a": "velocity",
         "b": "pressure",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10. Assumptions of Poiseuille’s Law:",
+      "question": "“10.” Assumptions of Poiseuille’s Law:",
       "answers": {
         "a": "Incompressible fluid",
         "b": "Newtonian fluid",
