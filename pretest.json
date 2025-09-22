@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "“1.” Darcy’s friction <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> varies from 0.0005 to 0.01 for pipes.",
+      "answers": {
+        "a": "effect",
+        "b": "coefficient",
+        "c": "value",
+        "d": "unit"
+      },
+      "explanations": {
+        "a": "The correct answer is “coefficient”. The Darcy friction factor (or coefficient) is a dimensionless number used in the Darcy-Weisbach equation to describe friction losses in a pipe. It varies based on the Reynolds number and the relative roughness of the pipe.",
+        "b": "The correct answer is “coefficient”. The Darcy friction factor (or coefficient) is a dimensionless number used in the Darcy-Weisbach equation to describe friction losses in a pipe. It varies based on the Reynolds number and the relative roughness of the pipe.",
+        "c": "The correct answer is “coefficient”. The Darcy friction factor (or coefficient) is a dimensionless number used in the Darcy-Weisbach equation to describe friction losses in a pipe. It varies based on the Reynolds number and the relative roughness of the pipe.",
+        "d": "The correct answer is “coefficient”. The Darcy friction factor (or coefficient) is a dimensionless number used in the Darcy-Weisbach equation to describe friction losses in a pipe. It varies based on the Reynolds number and the relative roughness of the pipe."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“2.” Headloss due to friction in pipe can be reduced by:",
+      "answers": {
+        "a": "Decreasing diameter of pipe",
+        "b": "Increasing diameter of pipe",
+        "c": "Increasing flow velocity",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "The correct answer is “Increasing diameter of the pipe”. According to the Darcy-Weisbach equation, head loss is inversely proportional to the diameter of the pipe to the fifth order. Therefore, increasing the diameter significantly reduces the head loss due to friction.",
+        "b": "The correct answer is “Increasing diameter of the pipe”. According to the Darcy-Weisbach equation, head loss is inversely proportional to the diameter of the pipe to the fifth order. Therefore, increasing the diameter significantly reduces the head loss due to friction.",
+        "c": "The correct answer is “Increasing diameter of the pipe”. According to the Darcy-Weisbach equation, head loss is inversely proportional to the diameter of the pipe to the fifth order. Therefore, increasing the diameter significantly reduces the head loss due to friction.",
+        "d": "The correct answer is “Increasing diameter of the pipe”. According to the Darcy-Weisbach equation, head loss is inversely proportional to the diameter of the pipe to the fifth order. Therefore, increasing the diameter significantly reduces the head loss due to friction."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“3.” Liquid flows through a horizontal pipe having diameter 100 mm (friction factor = 0.05) with a velocity of 4.0 m/s. The pipe length is 100 m. What is the head loss due to friction?",
+      "answers": {
+        "a": "16 m",
+        "b": "35 m",
+        "c": "40 m",
+        "d": "100 m"
+      },
+      "explanations": {
+        "a": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "b": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "c": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s².",
+        "d": "The correct answer is “40 m”. The head loss due to friction can be calculated using the Darcy-Weisbach equation:<br>h<sub>f</sub> = f (L/2D)  (v<sup>2</sup>/g) <br>Given: f = 0.05 , L = 100 m, D = 0.1 m, v = 4.0 m/s, and g = 9.81 m/s²."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“4.” Friction factor <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> when the flow becomes fully turbulent",
+      "answers": {
+        "a": "becomes zero",
+        "b": "attains maximum value",
+        "c": "attains minimum value",
+        "d": "attains negative value"
+      },
+      "explanations": {
+        "a": "The correct answer is “attains maximum value”. In fully turbulent flow, the friction factor reaches a relatively high and constant value due to the increased chaotic and resistive nature of the flow, predominantly in rough pipes.",
+        "b": "The correct answer is “attains maximum value”. In fully turbulent flow, the friction factor reaches a relatively high and constant value due to the increased chaotic and resistive nature of the flow, predominantly in rough pipes.",
+        "c": "The correct answer is “attains maximum value”. In fully turbulent flow, the friction factor reaches a relatively high and constant value due to the increased chaotic and resistive nature of the flow, predominantly in rough pipes.",
+        "d": "The correct answer is “attains maximum value”. In fully turbulent flow, the friction factor reaches a relatively high and constant value due to the increased chaotic and resistive nature of the flow, predominantly in rough pipes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“5.” Friction factor is function of <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> for rough pipes.",
+      "answers": {
+        "a": "relative roughness of pipe",
+        "b": "density of fluid",
+        "c": "volume of fluid ",
+        "d": "temperature of fluid "
+      },
+      "explanations": {
+        "a": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
+        "b": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
+        "c": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe.",
+        "d": "The correct answer is “relative roughness of pipe”. In turbulent flow, the friction factor is influenced by the relative roughness of the pipe, which is the ratio of the average roughness of the interior surface to the diameter of the pipe."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“6.” If flow velocity is doubled, then the frictional head loss becomes:",
+      "answers": {
+        "a": "Four times",
+        "b": "Half",
+        "c": "Twice",
+        "d": "Remains constant"
+      },
+      "explanations": {
+        "a": "EThe correct answer is “Four times”. The frictional head loss is proportional to the square of the flow velocity. Therefore, doubling the velocity results in a fourfold increase in head loss (h<sub>f</sub>  ∝ v<sup>2</sup>).",
+        "b": "The correct answer is “Four times”. The frictional head loss is proportional to the square of the flow velocity. Therefore, doubling the velocity results in a fourfold increase in head loss (h<sub>f</sub>  ∝ v<sup>2</sup>).",
+        "c": "The correct answer is “Four times”. The frictional head loss is proportional to the square of the flow velocity. Therefore, doubling the velocity results in a fourfold increase in head loss (h<sub>f</sub>  ∝ v<sup>2</sup>).",
+        "d": "The correct answer is “Four times”. The frictional head loss is proportional to the square of the flow velocity. Therefore, doubling the velocity results in a fourfold increase in head loss (h<sub>f</sub>  ∝ v<sup>2</sup>)."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“7.” For laminar flow in pipe of uniform diameter, the relation between Darcy’s friction factor and Reynold’s number is:",
+      "answers": {
+        "a": "f = 64 ⁄ Re",
+        "b": "f = Re",
+        "c": "f = 64Re",
+        "d": "f = 16Re"
+      },
+      "explanations": {
+        "a": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64.",
+        "b": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64.",
+        "c": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64.",
+        "d": "The correct answer is “f = 64 ⁄ Re”. In laminar flow, the Darcy friction factor is inversely proportional to the Reynolds number, and this relationship is given by f = Re ⁄ 64."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“8.” Darcy friction factor for Laminar flow is based on:",
+      "answers": {
+        "a": "Bernoulli’s Law",
+        "b": "Poiseuille’s Law",
+        "c": "Euler’s Law",
+        "d": "Newton’s Law"
+      },
+      "explanations": {
+        "a": "The correct answer is “Poiseuille’s Law”. Poiseuille's Law describes the flow of incompressible and Newtonian fluids in laminar conditions through a pipe and forms the basis for the relationship between the friction factor and Reynolds number in such flow.",
+        "b": "The correct answer is “Poiseuille’s Law”. Poiseuille's Law describes the flow of incompressible and Newtonian fluids in laminar conditions through a pipe and forms the basis for the relationship between the friction factor and Reynolds number in such flow.",
+        "c": "The correct answer is “Poiseuille’s Law”. Poiseuille's Law describes the flow of incompressible and Newtonian fluids in laminar conditions through a pipe and forms the basis for the relationship between the friction factor and Reynolds number in such flow.",
+        "d": "The correct answer is “Poiseuille’s Law”. Poiseuille's Law describes the flow of incompressible and Newtonian fluids in laminar conditions through a pipe and forms the basis for the relationship between the friction factor and Reynolds number in such flow."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“9.” Moody’s diagram is used to calculate <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> in pipes.",
+      "answers": {
+        "a": "velocity",
+        "b": "pressure",
+        "c": "friction factor",
+        "d": "temperature"
+      },
+      "explanations": {
+        "a": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation used to determine the friction factor for fluid flow in pipes, taking into account both the Reynolds number and the relative roughness of the pipe.",
+        "b": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation used to determine the friction factor for fluid flow in pipes, taking into account both the Reynolds number and the relative roughness of the pipe.",
+        "c": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation used to determine the friction factor for fluid flow in pipes, taking into account both the Reynolds number and the relative roughness of the pipe.",
+        "d": "The correct answer is “friction factor”. Moody’s diagram is a graphical representation used to determine the friction factor for fluid flow in pipes, taking into account both the Reynolds number and the relative roughness of the pipe."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "“10.” Assumptions of Poiseuille’s Law:",
+      "answers": {
+        "a": "Incompressible fluid",
+        "b": "Newtonian fluid",
+        "c": "Laminar flow",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "The correct answer is “All of these”. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian and that the flow is laminar. These assumptions are necessary for the validity of the law.",
+        "b": "The correct answer is “All of these”. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian and that the flow is laminar. These assumptions are necessary for the validity of the law.",
+        "c": "The correct answer is “All of these”. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian and that the flow is laminar. These assumptions are necessary for the validity of the law.",
+        "d": "The correct answer is “All of these”. Poiseuille’s Law assumes that the fluid is incompressible and Newtonian and that the flow is laminar. These assumptions are necessary for the validity of the law."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
